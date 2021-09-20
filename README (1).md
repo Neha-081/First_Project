@@ -3,7 +3,7 @@
 
 Internshala is India's no.1 internship and training platform with 40000+ paid internships in Engineering, MBA, media, law, arts, and other streams.
                                     
-We tried to clone the Ajio website from the scratch. For this, We have used the HTML, CSS and  JavaScript.
+We tried to clone the Internshala website from the scratch. For this, We have used the HTML, CSS and  JavaScript.
 
 # Appendix
 
