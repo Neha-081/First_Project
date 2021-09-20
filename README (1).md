@@ -16,13 +16,13 @@ menu ,hover, etc.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Neha-081/First_Project.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd First_project/final
+  index.html
 ```
 
 Our main Page(landing page) of this website is named
