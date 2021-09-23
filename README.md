@@ -22,7 +22,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd First_project/final
+  index.html
 ```
 
 Our main Page(landing page) of this website is named
