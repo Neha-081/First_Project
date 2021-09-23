@@ -16,7 +16,7 @@ menu ,hover, etc.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Neha-081/First_Project.git
 ```
 
 Go to the project directory
